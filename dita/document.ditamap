@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>My Story</title>
-  <topicref href="index.dita"/>
+    <title>The Hobbit</title>
+  <topicref href="index.dita">
+  <topicref href="erebor.dita"/>
+    <topicref href="the-shire.dita">
+      <topicref href="the-trolls.dita"/>
+    </topicref>
+    <topicref href="rivendell.dita"/>
+  </topicref>
 </map>
