@@ -2,7 +2,46 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_gyz_bt2_bdc">
     <title>The Shire</title>
+    <shortdesc>This is where the story opens to Bilbo Baggins and he meets the rest of his
+        companions, 60  years after Smaug destroyed Erebor.</shortdesc>
     <body>
-        <p></p>
+        <section id="section_hql_45d_ddc">
+            <title>Bilbo Baggins</title>
+            <p>Bilbo Baggins is a hobbit of the Shire.  Hobbits are little people, smaller than
+                dwarves, who enjoy relaxing and not doing anything adventurous.  They don't wear
+                shoes and live in Hobbit holes in the ground.  Bilbo is directly related to the
+                great Bullroarer Took, and a Baggins of Bag End, greatly respected because they
+                don't go on any adventures or do anything unusual.</p>
+        </section>
+        <section id="section_jnb_hvd_ddc">
+            <title>Gandalf the Grey</title>
+            <p>Gandalf is a wandering wizard who often comes to the Shire and entertains the
+                children with fireworks.  He even entertained a younger Bilbo Baggins many years
+                earlier.</p>
+        </section>
+        <section id="section_p4l_4vd_ddc">
+            <title>The Dwarves</title>
+            <p>Bilbo is eating dinner one night when he is interrupted by a knock at the door.  It
+                is thirteen dwarves from Erebor:<ul id="ul_kqj_qwd_ddc">
+                    <li>Fili</li>
+                    <li>Kili</li>
+                    <li>Bifur</li>
+                    <li>Bofur</li>
+                    <li>Bombur</li>
+                    <li>Dori</li>
+                    <li>Nori</li>
+                    <li>Ori</li>
+                    <li>Balin</li>
+                    <li>Dwalin</li>
+                    <li>Oin</li>
+                    <li>Gloin</li>
+                    <li>Thorin Oakenshield, prince of Erebor</li>
+                </ul>The dwarves help themselves to Bilbo's pantry and eat his dinner, and later
+                Gandalf arrives.  Gandalf and Thorin present a plan to remove Smaug and reclaim
+                Erebor.  They have a map that mentions a hidden passage into the Lonely Mountain and
+                they only need one more member for their quest: a burglar.  Gandalf convinces Bilbo
+                that he is the best choice for that position because he  is small and light on his
+                feet.</p>
+        </section>
     </body>
 </topic>

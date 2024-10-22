@@ -2,10 +2,36 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_gyz_bt2_bdc">
     <title>Erebor</title>
-    <shortdesc/>
+    <shortdesc>This is the background of the dwarf city of Erebor.</shortdesc>
     <body>
-        <p>
-            <fig id="fig_m52_2kt_bdc"/>
-        </p>
+        <fig id="fig_vcq_xsd_ddc">
+            <image href="erebor.jpg" id="image_xmb_ysd_ddc"/>
+        </fig>
+        <section id="section_azg_fqd_ddc">
+            <title>The Lonely Mountain</title>
+            <p>Erebor is a city built by dwarves within the Lonely Mountain.  Ruled by the dwarf
+                king Thror, his son, Thrain, and grandson, Thorin, it was the richest city in the
+                world because of the rich veins of precious metals and gemstones. Even the elves of
+                Mirkwood came to pay homage to the mightiest dwarf kingdom.</p>
+        </section>
+        <section id="section_cwz_nqd_ddc">
+            <title>Dale</title>
+            <p>Dale was a human town on the slopes of the Lonely Mountain, whose markets flourished
+                because of the wealth of Erebor.</p>
+        </section>
+        <section id="section_f2s_5qd_ddc">
+            <title>Smaug</title>
+            <p>Smaug was a dragon from the north who was drawn to the Lonely Mountain because of the
+                enormous wealth held within.  He swept down like a hurricane and <ph
+                    audience="adults">killed everyone in Dale and slaughtered the dwarves</ph><ph
+                    audience="children">scared everyone away from Erebor and Dale</ph>, nestling
+                deep inside the mountain on his newfound treasure.  </p>
+        </section>
+        <fig id="fig_ztj_grd_ddc">
+            <image href="smaug_adult.jfif" id="image_r3h_std_ddc" audience="adults"/>
+        </fig>
+        <fig id="fig_x1h_ttd_ddc">
+            <image href="smaug_children.jpg" id="image_b5g_25d_ddc" audience="children"/>
+        </fig>
     </body>
 </topic>
