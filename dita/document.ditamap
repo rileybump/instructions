@@ -3,7 +3,7 @@
 <map>
     <title>The Hobbit</title>
   <topicref href="index.dita">
-  <topicref href="erebor.dita"/>
+    <topicref href="erebor.dita"/>
     <topicref href="the-shire.dita">
       <topicref href="the-trolls.dita"/>
     </topicref>

@@ -5,7 +5,8 @@
     <shortdesc>This is the background of the dwarf city of Erebor.</shortdesc>
     <body>
         <fig id="fig_vcq_xsd_ddc">
-            <image href="erebor.jpg" id="image_xmb_ysd_ddc"/>
+            <image href="erebor.jpg" id="image_xmb_ysd_ddc"
+                alt="The Lonely Mountain with Erebor and Dale."/>
         </fig>
         <section id="section_azg_fqd_ddc">
             <title>The Lonely Mountain</title>
@@ -28,10 +29,12 @@
                 deep inside the mountain on his newfound treasure.  </p>
         </section>
         <fig id="fig_ztj_grd_ddc">
-            <image href="smaug_adult.jfif" id="image_r3h_std_ddc" audience="adults"/>
+            <image href="smaug_adult.jfif" id="image_r3h_std_ddc" audience="adults"
+                alt="The terrifying Smaug destroying Dale"/>
         </fig>
         <fig id="fig_x1h_ttd_ddc">
-            <image href="smaug_children.jpg" id="image_b5g_25d_ddc" audience="children"/>
+            <image href="smaug_children.jpg" id="image_b5g_25d_ddc" audience="children"
+                alt="The terrifying Smaug"/>
         </fig>
     </body>
 </topic>

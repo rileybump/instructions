@@ -2,7 +2,19 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_gyz_bt2_bdc">
     <title>Rivendell</title>
+    <shortdesc>The company arrives at Rivendell to consult with Elrond.</shortdesc>
     <body>
-        <p></p>
+        <section id="section_ffx_tfs_ddc">
+            <title>Rivendell</title>
+            <p>The company stops at the elf hideaway of Rivendell. There, they show Elrond the map
+                they have of the Lonely Mountain. Elrond translates the ancient language on the map:
+                "Stand by the grey stone when the thrush knocks and the setting sun with the last
+                light of Durin's Day will shine upon the key-hole."  With this new information, the
+                company sets off again to get to the Lonely Mountain before Durin's Day, a dwarven
+                holiday.</p>
+        </section>
+        <fig id="fig_nlc_lgs_ddc">
+            <image href="rivendell.jfif" id="image_j51_ngs_ddc" alt="The beautiful Rivendell"/>
+        </fig>
     </body>
 </topic>

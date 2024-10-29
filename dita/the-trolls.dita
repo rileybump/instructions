@@ -2,7 +2,42 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_gyz_bt2_bdc">
     <title>The Trolls</title>
+    <shortdesc>The company is captured by trolls.</shortdesc>
     <body>
-        <p></p>
+        <section id="section_fmw_5cs_ddc">
+            <title>The Trolls</title>
+            <p>Bilbo and the dwarves are captured by three trolls one night early in their
+                adventure.  The trolls are <ph audience="adults">hungry and stupid</ph><ph
+                    audience="children">not very smart</ph> and argue about the best way to cook the
+                dwarves and the hobbit.  They consider skinning the dwarves, grilling them, or even
+                sitting on them and crushing them into jelly. </p>
+        </section>
+        <section id="section_pjr_qds_ddc">
+            <title>Gandalf to the Rescue</title>
+            <p>As the trolls argue over how to eat the dwarves, Gandalf calls out to them from the
+                dark.  He gives them riddles, which they are not smart enough to understand.  <ph
+                    audience="adults">As the trolls argue over what the answer to the riddles are,
+                    they don't notice the sun rising.  As the sun comes up, the trolls are all
+                    turned to stone by its light.</ph><ph audience="children">The trolls are scared
+                    and confused by Gandalf and run away when the sun comes up.</ph></p>
+        </section>
+        <fig id="fig_g2g_zds_ddc" audience="children">
+            <image href="trolls-children.jfif" id="image_hwl_f2s_ddc"
+                alt="The trolls arguing about cooking the company"/>
+        </fig>
+        <fig id="fig_idv_f2s_ddc" audience="adults">
+            <image href="trolls-adults.jfif" id="image_cld_k2s_ddc"
+                alt="The trolls after they have been turned to stone."/>
+        </fig>
+        <section id="section_g3g_m2s_ddc">
+            <title>The Troll Hole</title>
+            <p>After Gandalf frees the company, they search around the trolls' camp.  Gandalf and
+                Thorin find two swords made by ancient elves, Glamdring and Orcrist.  Bilbo finds a
+                dagger forged by the same elves that has no name.  The blades of these weapons glow
+                blue when orcs are nearby.</p>
+        </section>
+        <fig id="fig_a5j_x2s_ddc">
+            <image href="troll-swords.png" id="image_crj_dfs_ddc" alt="The Swords of Gondolin"/>
+        </fig>
     </body>
 </topic>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_o2w_t4c_fdc">
+    <title>Wood Elves</title>
+    <shortdesc>Lost in Mirkwood, the dwarves are found by the native people of the forest, wood
+        elves.</shortdesc>
+    <body>
+        <section id="section_vxw_v4c_fdc">
+            <title>Captured</title>
+            <p>The company has strayed from the path through the forest and are wandering lost.
+                Suddenly, wood elves appear from the forest around them and take them prisoner.
+                Bilbo puts on his magic ring and slips away as the dwarves are taken to the elf
+                stronghold deep in the forest.  The dwarves are thrown into the elves' dungeons deep
+                below their castle.</p>
+        </section>
+        <section id="section_qtj_dpc_fdc">
+            <title>Escape</title>
+            <p>Bilbo steals a key from a sleeping elf and breaks the dwarves out of their cells.
+                They run to the wine cellar where there are enormous barrels of wine.  The elves
+                find the dwarves' empty cells and sound the alarm.  As the elves approach, the
+                dwarves follow Bilbo's lead and jump in the barrels and float down the river through
+                Mirkwood, going quickly towards the Lonely Mountain.</p>
+        </section>
+        <fig id="fig_wn3_ppc_fdc">
+            <image href="barrels.png" id="image_agr_bqc_fdc"/>
+        </fig>
+    </body>
+</topic>

@@ -2,7 +2,50 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_gyz_bt2_bdc">
     <title>The Goblin Caves</title>
+    <shortdesc>The company falls into goblin caves and Bilbo has a contest of riddles.</shortdesc>
     <body>
-        <p></p>
+        <section id="section_s4f_xgs_ddc">
+            <title>Entering the caves</title>
+            <p>Crossing the Misty Mountains, the company takes shelter in a cave as a snowstorm
+                pummels them.  As they sleep, they are captured by goblins who live beneath  the
+                mountain.  Bilbo is so small that the goblins lose track of him and he is separated
+                from the company in the caves under the mountain.</p>
+        </section>
+        <section id="section_azd_3hs_ddc">
+            <title>A Game of Riddles</title>
+            <p>Bilbo is left alone to wander the caves and try to find his way out.  He finds a
+                golden ring just lying on the ground, which he puts in his pocket.  He soon bumps
+                into a creature named Gollum.  Bilbo wants Gollum to show him the way out, while
+                Gollum wants to eat Bilbo.  They agree to play a game of riddles, with the winner
+                getting what he wants.  </p>
+            <p>Bilbo runs out of riddles that he knows and comes up with a simple question for
+                Gollum: "What have I got in my pocket?"  Gollum guesses three times and gets every
+                one wrong, so he has to lead Bilbo to the way out.  However, he has other plans, and
+                goes off to get his magic ring, so he can turn invisible to eat Bilbo anyway.  </p>
+            <p>Bilbo realizes that Gollum was lying to him and starts to run.  In the process, he
+                puts on the ring, and realizes that Gollum cannot see him.  On the way out, he finds
+                the company of dwarves and follows them until they get to the outdoors.</p>
+        </section>
+        <fig id="fig_igv_q3s_ddc">
+            <image href="gollum-adults.jfif" id="image_m4m_kjs_ddc"/>
+        </fig>
+        <fig id="fig_rq1_r3s_ddc">
+            <image href="gollum-children.jpg" id="image_gwf_ljs_ddc"/>
+        </fig>
+        <section id="section_r4d_f3s_ddc">
+            <title>The Goblin King</title>
+            <p>The dwarves, meanwhile, were taken deep into the mountain, where they were presented
+                to the Goblin King.  The goblins find Orcrist and Glamdring, famed goblin-killing
+                swords, and the Goblin King calls for the dwarves' heads.  <ph audience="adults">The
+                    dwarves grab their weapons back and start killing the goblins, and Gandalf
+                    beheads the Goblin King.</ph>They run and they find the way out of the
+                mountain.</p>
+        </section>
+        <fig id="fig_b4g_r3s_ddc">
+            <image href="goblin-king-adults.png" id="image_kgc_mjs_ddc"/>
+        </fig>
+        <fig id="fig_uxl_r3s_ddc">
+            <image href="goblin-king-children.jpg" id="image_kxx_mjs_ddc"/>
+        </fig>
     </body>
 </topic>

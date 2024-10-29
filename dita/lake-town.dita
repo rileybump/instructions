@@ -2,7 +2,19 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_gyz_bt2_bdc">
     <title>Lake-Town</title>
+    <shortdesc>The company in finally in sight of the Lonely Mountain; they have reached
+        Lake-Town.</shortdesc>
     <body>
+        <section id="section_c4x_mqc_fdc">
+            <title>Lake-Town</title>
+            <p>The dwarves float in their barrels down the river, until the current carries them to
+                Lake-Town, a floating village built by the humans from Dale.  The citizens of
+                Lake-Town learn of the company's purpose and outfit them with everything they need
+                to enter the mountain.</p>
+        </section>
+        <fig id="fig_o25_xqc_fdc">
+            <image href="laketown.jfif" id="image_ocr_drc_fdc"/>
+        </fig>
         <p></p>
     </body>
 </topic>
