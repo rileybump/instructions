@@ -2,7 +2,62 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_gyz_bt2_bdc">
     <title>Battle of the Five Armies</title>
+    <shortdesc>Now that Erebor has been reclaimed, all eyes turn to the mountain.</shortdesc>
     <body>
-        <p></p>
+        <section id="section_id1_gdr_fdc">
+            <title>The Men of Lake-Town</title>
+            <p audience="adults">The survivors from Lake-Town flock to the mountain for shelter and
+                food for the coming winter. They had nowhere else to go after their town had sunk
+                into the lake with the dragon.  Led by Bard the Bowman, they make the climb. </p>
+            <p audience="children">The people of Lake-Town abandoned their town to go to the
+                mountain, hoping for their fair share of the treasure within.</p>
+        </section>
+        <fig id="fig_cjq_kgr_fdc">
+            <image href="bard.jfif" id="image_typ_mgr_fdc"/>
+        </fig>
+        <section id="section_vjs_pdr_fdc">
+            <title>The Elves of Mirkwood</title>
+            <p>The elves from Mirkwood, who had heard of the company's good fortune, left the forest
+                to come get their share of treasure.  The elf king, Thranduil, had treasure of his
+                own in the mountain, that he had given to the old dwarf king, Thror, before the
+                dragon had come.</p>
+        </section>
+        <fig id="fig_zlg_ngr_fdc">
+            <image href="thranduil.jpg" id="image_mbv_pgr_fdc"/>
+        </fig>
+        <section id="section_mpx_b2r_fdc">
+            <title>The Lord of the Iron Hills</title>
+            <p>Bilbo and the dwarves barricade themselves inside the mountain.  Thorin, the leader,
+                is obsessed with his new wealth, and refuses to part with any of it to the elves of
+                Mirkwood or to the people of Lake-Town.  As winter closes in, the men and elves lay
+                siege to the mountain.</p>
+            <p>Thorin sends a message to his cousin, Dain Ironfoot, Lord of the Iron Hills, about
+                his plight, and calling for help.  Dain and his army set out immediately for the
+                Lonely Mountain. </p>
+        </section>
+        <section id="section_smt_s2r_fdc">
+            <title>Goblins from the Misty Mountains</title>
+            <p>The elves from Mirkwood weren't the only ones who heard about the end of Smaug's
+                reign: the goblins in the caves under the Misty Mountains heard as well.  Driven by
+                greed, they rush to the mountain.  Just as the Dain Ironfoot arrives and is about to
+                do battle with the combined armies of humans and elves, the horde of goblins
+                appears.  Thorin and the rest of his company join Dain and the three armies join
+                together to fight off the goblins.</p>
+        </section>
+        <section id="section_nsf_cfr_fdc">
+            <title>The Eagles</title>
+            <p>The men, elves, and dwarves are fighting bravely, but the overwhelming numbers of
+                goblins are taking their toll.  <ph audience="adults">Thorin is slain by the
+                    goblins, and Fili and Kili are killed protecting his body.</ph>  As the battle
+                seems lost, Gandalf appears with giant eagles.  The eagles swoop in and decimate the
+                goblins, bringing a quick end to the battle.</p>
+        </section>
+        <section id="section_vrl_mfr_fdc">
+            <title>The Aftermath</title>
+            <p>After the battle, the humans, dwarves, and elves are all friendly again, and the
+                dwarves gladly give them their share of the treasure. Bilbo takes his 1/14 share of
+                the treasure and returns to his home in the Shire, where he lives out the rest of
+                his life in a much more exciting way than many other hobbits do. </p>
+        </section>
     </body>
 </topic>

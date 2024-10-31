@@ -2,7 +2,51 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_gyz_bt2_bdc">
     <title>The Lonely Mountain</title>
+    <shortdesc>The company finally approaches the Lonely Mountain and the back door from their
+        ancient map.</shortdesc>
     <body>
-        <p></p>
+        <section id="section_b3g_d1r_fdc">
+            <title>The Back Door</title>
+            <p>The company scales the mountain in the place where the door is described. As the sun
+                sets, the keyhole reveals itself in the mountainside.  The dwarves all look to
+                Bilbo: this is why he is here.</p>
+        </section>
+        <section id="section_s4k_41r_fdc">
+            <title>Smaug the Great and Terrible</title>
+            <p>Bilbo enters the mountain and puts on his ring.  As he follows the tunnels deeper
+                into the mountain, he stumbles across the massive treasure room.  <ph
+                    audience="adults">(Smaug's treasure horde has been estimated to be over $800
+                    million in today's money, in pure gold)</ph>The giant dragon sleeps in his
+                massive treasure trove.  He awakens when he smells Bilbo, since he knows well the
+                smell of dwarf, but has never met a hobbit before.</p>
+            <p>Smaug asks Bilbo who he is, and how he got in. Bilbo says that he has only heard
+                stories about Smaug and had to see for himself if the legends were true. Bilbo
+                describes himself to Smaug as "Barrel-rider," "Luckwearer," "Web-cutter," "Stinging
+                Fly," "Ring-winner," and "Clue-finder." He flatters Smaug and manages to escape,
+                stealing a golden cup to show the dwarves that he had made it inside.</p>
+        </section>
+        <fig id="fig_u33_4cr_fdc">
+            <image href="smaugs%20treasure.jfif" id="image_ady_qcr_fdc"
+                alt="The terrifying dragon with his enormous treasure trove."/>
+        </fig>
+        <section id="section_qkm_vbr_fdc" audience="adults">
+            <title>Destruction of Lake-Town</title>
+            <p>Smaug knows his treasure to the ounce, and he soon realizes that Bilbo took one of
+                his gold cups.  He knows that the men of Lake-Town must have helped Bilbo, so for
+                the first time in a century, he rouses himself and leaves the mountain.  He flies
+                south and sets to work destroying the town.  One man, Bard the Bowman, has heard
+                tales of a weak point in the dragon's armor over his heart.  As Lake-Town burns and
+                Bard is on his last arrow, his aim is true and he slays the fearsome dragon.</p>
+        </section>
+        <section id="section_e4y_fcr_fdc" audience="children">
+            <title>Cowardly Smaug</title>
+            <p>After Bilbo has gone, Smaug smells Thorin Oakenshield, and knows that the dwarves
+                have come to reclaim their homeland. In terror, Smaug flees his treasure hole and
+                runs back to his home in the north.</p>
+        </section>
+        <fig id="fig_o1f_scr_fdc" audience="adults">
+            <image href="laketownburning.jfif" id="image_xcx_xcr_fdc"
+                alt="Smaug burning Lake-Town in a terrible rage"/>
+        </fig>
     </body>
 </topic>
