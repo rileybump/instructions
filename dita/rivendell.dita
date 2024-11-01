@@ -14,7 +14,8 @@
                 holiday.</p>
         </section>
         <fig id="fig_nlc_lgs_ddc">
-            <image href="rivendell.jfif" id="image_j51_ngs_ddc" alt="The beautiful Rivendell"/>
+            <image href="rivendell.jfif" id="image_j51_ngs_ddc" alt="The beautiful Rivendell"
+                width="500"/>
         </fig>
     </body>
 </topic>
