@@ -44,7 +44,8 @@
                 light on his feet.</p>
         </section>
         <fig id="fig_n5z_pzd_ddc">
-            <image href="dwarves.jpg" id="image_t3y_d12_ddc" alt="Bilbo and the Thirteen Dwarves"/>
+            <image href="dwarves.jpg" id="image_t3y_d12_ddc" alt="Bilbo and the Thirteen Dwarves"
+                width="500"/>
         </fig>
     </body>
 </topic>
