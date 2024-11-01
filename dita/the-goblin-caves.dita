@@ -27,10 +27,11 @@
                 the company of dwarves and follows them until they get to the outdoors.</p>
         </section>
         <fig id="fig_igv_q3s_ddc">
-            <image href="gollum-adults.jfif" id="image_m4m_kjs_ddc" alt="Gollum"/>
+            <image href="gollum-adults.jfif" id="image_m4m_kjs_ddc" alt="Gollum" audience="adults"/>
         </fig>
         <fig id="fig_rq1_r3s_ddc">
-            <image href="gollum-children.jpg" id="image_gwf_ljs_ddc" alt="Gollum's cave"/>
+            <image href="gollum-children.jpg" id="image_gwf_ljs_ddc" alt="Gollum's cave"
+                audience="children"/>
         </fig>
         <section id="section_r4d_f3s_ddc">
             <title>The Goblin King</title>
@@ -42,10 +43,12 @@
                 mountain.</p>
         </section>
         <fig id="fig_b4g_r3s_ddc">
-            <image href="goblin-king-adults.png" id="image_kgc_mjs_ddc" alt="The Goblin King"/>
+            <image href="goblin-king-adults.png" id="image_kgc_mjs_ddc" alt="The Goblin King"
+                audience="adults"/>
         </fig>
         <fig id="fig_uxl_r3s_ddc">
-            <image href="goblin-king-children.jpg" id="image_kxx_mjs_ddc" alt="The Goblin King"/>
+            <image href="goblin-king-children.jpg" id="image_kxx_mjs_ddc" alt="The Goblin King"
+                audience="children"/>
         </fig>
     </body>
 </topic>
