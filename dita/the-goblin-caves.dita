@@ -28,7 +28,7 @@
         </section>
         <fig id="fig_igv_q3s_ddc">
             <image href="gollum-adults.jfif" id="image_m4m_kjs_ddc" alt="Gollum" audience="adults"
-                width="500"/>
+                width="350"/>
         </fig>
         <fig id="fig_rq1_r3s_ddc">
             <image href="gollum-children.jpg" id="image_gwf_ljs_ddc" alt="Gollum's cave"
@@ -45,11 +45,11 @@
         </section>
         <fig id="fig_b4g_r3s_ddc">
             <image href="goblin-king-adults.png" id="image_kgc_mjs_ddc" alt="The Goblin King"
-                audience="adults" width="500"/>
+                audience="adults" width="400"/>
         </fig>
         <fig id="fig_uxl_r3s_ddc">
             <image href="goblin-king-children.jpg" id="image_kxx_mjs_ddc" alt="The Goblin King"
-                audience="children" height="500"/>
+                audience="children" height="400"/>
         </fig>
     </body>
 </topic>

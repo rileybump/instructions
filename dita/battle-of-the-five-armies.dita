@@ -14,7 +14,7 @@
         </section>
         <fig id="fig_cjq_kgr_fdc">
             <image href="bard.jfif" id="image_typ_mgr_fdc" alt="Bard and the people of Lake-Town"
-                width="500"/>
+                width="400"/>
         </fig>
         <section id="section_vjs_pdr_fdc">
             <title>The Elves of Mirkwood</title>
@@ -25,7 +25,7 @@
         </section>
         <fig id="fig_zlg_ngr_fdc">
             <image href="thranduil.jpg" id="image_mbv_pgr_fdc"
-                alt="The elf king Thranduil and his elf army" width="500"/>
+                alt="The elf king Thranduil and his elf army" width="400"/>
         </fig>
         <section id="section_mpx_b2r_fdc">
             <title>The Lord of the Iron Hills</title>
@@ -39,7 +39,7 @@
         </section>
         <fig id="fig_kpl_mmr_fdc">
             <image href="dain.jfif" id="image_trd_nmr_fdc" alt="Dain Ironfoot with his dwarf army"
-                width="500"/>
+                width="400"/>
         </fig>
         <section id="section_smt_s2r_fdc">
             <title>Goblins from the Misty Mountains</title>
@@ -52,11 +52,11 @@
         </section>
         <fig id="fig_m4j_5fz_fdc">
             <image href="orcs.webp" id="image_ans_vfz_fdc" audience="adults"
-                alt="Goblins from the Misty Montains" width="500"/>
+                alt="Goblins from the Misty Montains" width="400"/>
         </fig>
         <fig id="fig_e3p_wfz_fdc">
             <image href="goblins%20kids.jpg" id="image_cpm_cgz_fdc" audience="children"
-                alt="Goblins from the Misty Mountains" width="500"/>
+                alt="Goblins from the Misty Mountains" width="400"/>
         </fig>
         <section id="section_nsf_cfr_fdc">
             <title>The Eagles</title>
@@ -67,7 +67,7 @@
                 goblins, bringing a quick end to the battle.</p>
         </section>
         <fig id="fig_cg5_ggz_fdc">
-            <image href="eagles.webp" id="image_hhr_hgz_fdc" alt="The giant eagles" width="500"/>
+            <image href="eagles.webp" id="image_hhr_hgz_fdc" alt="The giant eagles" width="400"/>
         </fig>
         <section id="section_vrl_mfr_fdc">
             <title>The Aftermath</title>

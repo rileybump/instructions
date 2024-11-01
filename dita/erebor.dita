@@ -6,7 +6,7 @@
     <body>
         <fig id="fig_vcq_xsd_ddc">
             <image href="erebor.jpg" id="image_xmb_ysd_ddc"
-                alt="The Lonely Mountain with Erebor and Dale." width="500"/>
+                alt="The Lonely Mountain with Erebor and Dale." width="400"/>
         </fig>
         <section id="section_azg_fqd_ddc">
             <title>The Lonely Mountain</title>
@@ -30,11 +30,11 @@
         </section>
         <fig id="fig_ztj_grd_ddc">
             <image href="smaug_adult.jfif" id="image_r3h_std_ddc" audience="adults"
-                alt="The terrifying Smaug destroying Dale" width="500"/>
+                alt="The terrifying Smaug destroying Dale" width="400"/>
         </fig>
         <fig id="fig_x1h_ttd_ddc">
             <image href="smaug_children.jpg" id="image_b5g_25d_ddc" audience="children"
-                alt="The terrifying Smaug" width="500"/>
+                alt="The terrifying Smaug" width="400"/>
         </fig>
     </body>
 </topic>
