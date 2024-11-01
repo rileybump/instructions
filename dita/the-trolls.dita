@@ -37,7 +37,8 @@
                 blue when orcs are nearby.</p>
         </section>
         <fig id="fig_a5j_x2s_ddc">
-            <image href="troll-swords.png" id="image_crj_dfs_ddc" alt="The Swords of Gondolin"/>
+            <image href="troll-swords.png" id="image_crj_dfs_ddc" alt="The Swords of Gondolin"
+                width="400"/>
         </fig>
     </body>
 </topic>
