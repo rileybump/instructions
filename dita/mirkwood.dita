@@ -14,7 +14,7 @@
                 again.</p>
         </section>
         <fig id="fig_c5m_hnc_fdc">
-            <image href="mirkwood.webp" id="image_uhq_f4c_fdc"/>
+            <image href="mirkwood.webp" id="image_uhq_f4c_fdc" alt="The forest of Mirkwood"/>
         </fig>
         <section id="section_ugx_hnc_fdc" audience="adults">
             <title>Spiders of Mirkwood</title>
@@ -25,7 +25,8 @@
                 it.</p>
         </section>
         <fig id="fig_snc_c4c_fdc">
-            <image href="spiders.jpg" id="image_e5p_44c_fdc" audience="adults"/>
+            <image href="spiders.jpg" id="image_e5p_44c_fdc" audience="adults"
+                alt="Bilbo fighting the giant spiders"/>
         </fig>
         <p></p>
     </body>

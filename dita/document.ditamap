@@ -2,11 +2,15 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>The Hobbit</title>
-  <topicref href="index.dita">
-    <topicref href="erebor.dita"/>
-    <topicref href="the-shire.dita">
-      <topicref href="the-trolls.dita"/>
-    </topicref>
-    <topicref href="rivendell.dita"/>
-  </topicref>
+  <topicref href="index.dita"/>
+  <topicref href="erebor.dita"/>
+  <topicref href="the-shire.dita"/>
+  <topicref href="the-trolls.dita"/>
+  <topicref href="rivendell.dita"/>
+  <topicref href="the-goblin-caves.dita"/>
+  <topicref href="mirkwood.dita"/>
+  <topicref href="wood-elves.dita"/>
+  <topicref href="lake-town.dita"/>
+  <topicref href="the-lonely-mountain.dita"/>
+  <topicref href="battle-of-the-five-armies.dita"/>
 </map>
